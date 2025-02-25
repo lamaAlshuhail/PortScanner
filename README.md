@@ -38,7 +38,7 @@ pip install pyfiglet termcolor
 ### Clone the Repository
 To get started, clone the repository from GitHub:
 ```sh
-git clone https://github.com/yourusername/multithreaded-port-scanner.git
+git clone https://github.com/LamaAlshuhail/multithreaded-port-scanner.git
 cd multithreaded-port-scanner
 ```
 
